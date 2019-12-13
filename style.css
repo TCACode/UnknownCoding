@@ -4,6 +4,9 @@ div.container{
     position: absolute;
     height: 5%;
 }    
+body {
+  margin:10px;   
+}
 html{
     background-color:black;
 }   
